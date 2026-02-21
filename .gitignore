@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.__pyc
+*.pyo
+*pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.environments
+# macOS
+.DS_Store
+
+# LArge raw data files
+data_raw/*.csv
+
